@@ -130,7 +130,7 @@
 }
 
 .message .message__content {
-  /* padding: 1px; */
+  padding: 1px;
 }
 
 .incoming-message {
